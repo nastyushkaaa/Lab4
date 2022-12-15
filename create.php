@@ -29,10 +29,11 @@
     
     }
 
-    echo"<script>
+    echo "<script>
+    alert('Created');
     location.href = 'index.php';
     </script>";
-}
+    }
 ?>
 <!DOCTYPE html>
 <html lang="en">
